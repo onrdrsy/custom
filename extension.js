@@ -99,7 +99,7 @@
       themeLink: null,
       fbLink: "https://fb.com/groups/bilgisayarlariseviyoruz1",
       youtubeLink: null,
-      website: "https://bilgisayarlariseviyoruz",
+      website: "https://bilgisayarlariseviyoruz.net",
       intervalMessages: [],
       messageInterval: 5,
       songstats: true,

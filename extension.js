@@ -46,14 +46,14 @@
     //Change the bots default settings and make sure they are loaded on launch
 
     localStorage.setItem("basicBotsettings", JSON.stringify({
-      botName: "basicBot",
-      language: "english",
+      botName: "BotBuba",
+      language: "turkish",
       chatLink: "https://rawgit.com/basicBot/source/master/lang/en.json",
       scriptLink: "https://rawgit.com/basicBot/source/master/basicBot.js",
       roomLock: false, // Requires an extension to re-load the script
-      startupCap: 1, // 1-200
-      startupVolume: 0, // 0-100
-      startupEmoji: false, // true or false
+      startupCap: 10, // 1-200
+      startupVolume: 10, // 0-100
+      startupEmoji: true, // true or false
       autowoot: true,
       autoskip: false,
       smartSkip: true,
@@ -89,17 +89,17 @@
       afkpositionCheck: 15,
       afkRankCheck: "ambassador",
       motdEnabled: false,
-      motdInterval: 5,
+      motdInterval: 3,
       motd: "Temporary Message of the Day",
-      filterChat: true,
+      filterChat: false,
       etaRestriction: false,
       welcome: true,
       opLink: null,
       rulesLink: null,
       themeLink: null,
-      fbLink: null,
+      fbLink: "https://fb.com/groups/bilgisayarlariseviyoruz1",
       youtubeLink: null,
-      website: null,
+      website: "https://bilgisayarlariseviyoruz",
       intervalMessages: [],
       messageInterval: 5,
       songstats: true,

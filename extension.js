@@ -49,7 +49,7 @@
       botName: "BotBuba",
       language: "turkish",
       chatLink: "https://rawgit.com/basicBot/source/master/lang/en.json",
-      scriptLink: "https://rawgit.com/basicBot/source/master/basicBot.js",
+      scriptLink: "https://raw.githubusercontent.com/onrdrsy/source/master/basicBot.js",
       roomLock: false, // Requires an extension to re-load the script
       startupCap: 10, // 1-200
       startupVolume: 10, // 0-100

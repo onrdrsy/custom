@@ -76,7 +76,7 @@
       autodisable: true,
       commandCooldown: 30,
       usercommandsEnabled: true,
-      skipPosition: 3,
+      skipPosition: null,
       skipReasons: [
       ["theme", "This song does not fit the room theme. "],
       ["op", "This song is on the OP list. "],
@@ -102,7 +102,7 @@
       website: "https://bilgisayarlariseviyoruz.net",
       intervalMessages: [],
       messageInterval: 5,
-      songstats: true,
+      songstats: false,
       commandLiteral: "!",
       blacklists: {
         NSFW: "https://rawgit.com/basicBot/custom/master/blacklists/NSFWlist.json",

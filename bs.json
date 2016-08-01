@@ -1,5 +1,5 @@
 {
-    "room":                     "BilgisayarlarÄ± Seviyoruz",
+    "room":                     "Bilgisayarları Seviyoruz",
     "author":                   "Akifpekoz",
     "icon":                     "http://i.hizliresim.com/a/3eXvoK.png",
     "css":                      "https://cdn.radiant.dj/rcs/rs_room.css",
@@ -9,7 +9,7 @@
         "allowAutojoin":        false,
         "allowAutograb":        true,
         "allowSmartVote":       true,
-        "allowEmotes":          true,H
+        "allowEmotes":          true,
         "allowShowingMehs":     true,
         "forceSmartVote":       false
     },

@@ -27,7 +27,7 @@
         "user":                 "#8B92A3"
     },
     "images": {
-        "background":           null,
+        "background":           "http://i.hizliresim.com/bbN3M8.jpg",
         "playback":             null,
         "admin":                "https://cdn.radiant.dj/rcs/icons/radiant/admin.png",
         "ambassador":           "https://cdn.radiant.dj/rcs/icons/radiant/ambassador.png",

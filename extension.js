@@ -72,7 +72,7 @@
       voteSkipLimit: 10,
       historySkip: true,
       timeGuard: true,
-      maximumSongLength: 5,
+      maximumSongLength: 4.30,
       autodisable: true,
       commandCooldown: 30,
       usercommandsEnabled: true,
@@ -105,9 +105,9 @@
       songstats: false,
       commandLiteral: "!",
       blacklists: {
-        NSFW: "https://rawgit.com/basicBot/custom/master/blacklists/NSFWlist.json",
-        OP: "https://rawgit.com/basicBot/custom/master/blacklists/OPlist.json",
-        BANNED: "https://rawgit.com/basicBot/custom/master/blacklists/BANNEDlist.json"
+        NSFW: "https://rawgit.com/onrdrsy/custom1/master/blacklists/NSFWlist.json",
+        OP: "https://rawgit.com/onrdrsy/custom1/master/blacklists/OPlist.json",
+        BANNED: "https://rawgit.com/onrdrsy/custom1/master/blacklists/BANNEDlist.json"
       }
     }));
 

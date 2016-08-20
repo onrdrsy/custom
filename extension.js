@@ -46,7 +46,7 @@
     //Change the bots default settings and make sure they are loaded on launch
 
     localStorage.setItem("basicBotsettings", JSON.stringify({
-      botName: "BotBuba",
+      botName: "Gardiyan",
       language: "turkish",
       chatLink: "https://rawgit.com/onrdrsy/source/master/lang/tr.json",
       scriptLink: "https://rawgit.com/onrdrsy/source/master/basicBot.js",
@@ -89,7 +89,7 @@
       afkpositionCheck: 15,
       afkRankCheck: "ambassador",
       motdEnabled: false,
-      motdInterval: 4,
+      motdInterval: 5,
       motd: "Temporary Message of the Day",
       filterChat: false,
       etaRestriction: false,
